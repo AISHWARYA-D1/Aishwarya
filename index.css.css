@@ -1,0 +1,92 @@
+.logo>img{
+    width: 150px;
+    height: 50px;
+    margin: 15px;
+    margin-left: 55px;
+    
+}
+.search>input{
+    margin-left: 18px;
+    margin-top: 15px;
+    height: 40px;
+    width: 600px;
+}
+.navbar{
+    display: flex;
+    background-color:rgba(1, 1, 14, 0.795);
+    height: 70px;
+    margin: 0px;
+    
+}
+#List{
+    margin-left: 200px;
+    margin-top: 25px;  
+    height: 30px;
+    width: 50px;
+    border: none;
+    padding: 20px;
+    
+      
+}
+button{
+    margin-right: 30px;
+    background-color: red;
+    font-family: sans-serif;
+    border-radius: 5px;
+    color: aliceblue;
+    padding: 10px 25px 10px 25px;
+    margin-top: 25px;
+    margin-left: 45px;
+    border: none;
+    font-size: 15px;
+    cursor: pointer;
+    
+}
+
+#list option{
+    color: white;
+    padding-bottom: 30px;
+    
+}
+.p1{
+    margin-top: 100px;
+}
+.photo{
+    display: flex;
+    align-items: center;
+    margin-top: 170px ;
+    margin-left: 20px;
+    padding: 0px;
+    justify-content: space-between;
+    height: 50px;
+    width: 50px;
+    
+}
+.photo>img{
+    border-radius: 20px;
+    margin-left: 20px;
+    justify-content: space-between;
+    /* width: 100px; */
+    
+}
+.rrr
+{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    word-spacing: 30px ;
+    background-color: rgba(35, 35, 92, 0.432);
+    padding: 9px 0px 9px 0px;
+    
+  }
+  .link1>a
+  {
+text-decoration: none;
+color: black;
+
+  }
+  .links2>a{
+    margin-left: 0px;
+    text-decoration: none;
+    color: black;
+    }
